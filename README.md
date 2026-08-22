@@ -1,27 +1,27 @@
-<div align="center">
-
-  <!-- Typing SVG Banner -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Gonza+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <strong>Transformando ideas en interfaces dinámicas, fluidas y de alto impacto.</strong>
-  </p>
-
-<!-- Sección 2 Columnas: Enlaces a la izquierda | GIF a la derecha -->
+<!-- Header Principal Unificado -->
 <table border="0" style="width: 100%;">
   <tr>
-    <td valign="middle" align="left" width="45%">
-      <a href="https://gonzaorellana.com.ar">
-        <img src="https://img.shields.io/badge/Portfolio-gonzaorellana.com.ar-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-      </a>
-      <br><br>
-      <a href="https://www.linkedin.com/in/gonzalo-jesus-orellana/">
-        <img src="https://img.shields.io/badge/LinkedIn-Gonzalo_Orellana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <br><br>
+    <td valign="middle" align="left" width="55%">
+      <!-- Typing SVG Banner -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Hola%2C+soy+Gonza+%F0%9F%91%8B" alt="Typing SVG" />
+      </a>  
+      <p>
+        Transformo ideas complejas en interfaces dinámicas, intuitivas y de alto rendimiento. Estudiante de Gestión IT & Data.
+      </p>
+      <!-- Enlaces apilados -->
+      <p>
+        <a href="https://gonzaorellana.com.ar">
+          <img src="https://img.shields.io/badge/Portfolio-gonzaorellana.com.ar-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+        </a>
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/gonzalo-jesus-orellana/">
+          <img src="https://img.shields.io/badge/LinkedIn-Gonzalo_Orellana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
     </td>
-    <td valign="middle" align="center" width="55%">
+    <td valign="middle" align="center" width="45%">
       <img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif" width="420" alt="Coding GIF" />
     </td>
   </tr>
