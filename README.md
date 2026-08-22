@@ -66,7 +66,3 @@
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
 </p>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaloOrellana&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
