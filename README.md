@@ -7,7 +7,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Hola%2C+soy+Gonza+%F0%9F%91%8B" alt="Typing SVG" />
       </a>  
       <p>
-        Transformo ideas complejas en interfaces dinámicas, intuitivas y de alto rendimiento. Estudiante de Gestión IT & Data.
+        Me gusta transformar ideas en interfaces dinámicas, intuitivas y de alto rendimiento. Estudiante de Gestión IT & Data.
       </p>
       <!-- Enlaces apilados -->
       <p>
